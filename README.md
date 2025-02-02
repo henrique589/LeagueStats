@@ -17,11 +17,12 @@ O objetivo do projeto é aplicar técnicas de Data Science para compreender melh
 mecânicas do jogo e fornecer informações úteis para jogadores e analistas. 
 
 ## 🔧 Principais funcionalidades
-✅ Coleta de dados automatizada via Riot API
-✅ Análise de estatísticas de campeões e taxa de vitória
-✅ Identificação de padrões no meta do jogo
-✅ Construção de um dashboard interativo para visualização dos insights
-✅ Exploração de técnicas de Machine Learning para prever resultados de partidas (futuramente)
+✅ Coleta de dados automatizada via Riot API.
+✅ Análise de estatísticas de campeões e taxa de vitória.
+✅ Identificação de padrões no meta do jogo.
+✅ Construção de um dashboard interativo para visualização dos insights.
+✅ Exploração de técnicas de Machine Learning para prever resultados de partidas 
+(futuramente).
 
 ## 🔰 Tecnologias utilizadas
 🔹 Python
