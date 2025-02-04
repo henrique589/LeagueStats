@@ -27,3 +27,14 @@ mecânicas do jogo e fornecer informações úteis para jogadores e analistas.
 ## 🔰 Tecnologias utilizadas
 🔹 Python
 🔹 Riot API
+&nbsp;
+## 🔑 Configuração da API
+Antes de rodar o projeto, você precisa configurar sua chave de API da Riot Games.
+```
+1. Copie o arquivo `config_example.py` e renomeie para `config.py`.
+2. Abra `config.py` e substitua `"SUA_CHAVE_AQUI"` pela sua chave de API real.
+```
+
+Exemplo:
+```python
+API_KEY = "RGAPI-sua-chave-aqui"
