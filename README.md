@@ -5,7 +5,6 @@
 ```cpp
 #define AUTHOR ["Henrique Azevedo Andrade Silva"]
 ```
-&nbsp;
 
 ## 📰 Descrição do Projeto
 Este projeto utiliza a API da Riot Games para coletar e analisar dados de partidas de 
