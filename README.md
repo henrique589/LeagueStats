@@ -26,6 +26,7 @@ mecânicas do jogo e fornecer informações úteis para jogadores e analistas.
 ## 🔰 Tecnologias utilizadas
 🔹 Python
 🔹 Riot API
+🔹 SQLite3
 &nbsp;
 ## 🔑 Configuração da API
 Antes de rodar o projeto, você precisa configurar sua chave de API da Riot Games.
